@@ -23,6 +23,7 @@ pnpm create vite
 ```
 
 这个方式下载可以选择是否使用TypeScript
+本项目会使用~
 
 规范工具:pnpm+eslint+prettier+stylelint+husky+commitlint+preinstall
 
