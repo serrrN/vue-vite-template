@@ -7,9 +7,7 @@
     @close="handleClose"
   >
     <div class="header">
-      <div class="logo-wrapped">
-         
-      </div>
+      <div class="logo-wrapped"></div>
       <div class="name">后台管理系统</div>
       <div class="fold-icon-wrapped">
         <el-icon>

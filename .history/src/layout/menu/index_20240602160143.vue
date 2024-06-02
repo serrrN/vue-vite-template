@@ -8,9 +8,7 @@
   >
     <div class="header">
       <div class="logo-wrapped">
-        <el-icon>
-          
-        </el-icon>
+        <el-icon></el-icon>
       </div>
       <div class="name">后台管理系统</div>
       <div class="fold-icon-wrapped">

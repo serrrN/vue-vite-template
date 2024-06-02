@@ -1,5 +1,5 @@
 <template>
-<el-menu
+  <el-menu
     default-active="2"
     class="el-menu-vertical-demo"
     :collapse="isCollapse"
@@ -38,9 +38,5 @@
     </el-menu-item>
   </el-menu>
 </template>
-<script setup lang="ts">
-
-</script>
-<style lang="scss" scoped>
-
-</style>
+<script setup lang="ts"></script>
+<style lang="scss" scoped></style>

@@ -11,8 +11,8 @@
 </template>
 <script setup lang="ts"></script>
 <style lang="scss" scoped>
-.layout-container{
-    width: 100vw;
-    height: 100vh;
+.layout-container {
+  width: 100vw;
+  height: 100vh;
 }
 </style>

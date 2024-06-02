@@ -1,9 +1,5 @@
-<template>
-    
-</template>
+<template></template>
 <script setup lang="ts">
-    console.log("Hello")
+console.log('Hello')
 </script>
-<style lang="scss" scoped>
-
-</style>
+<style lang="scss" scoped></style>

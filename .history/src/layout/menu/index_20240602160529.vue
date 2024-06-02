@@ -54,8 +54,8 @@ const handleClose = (key: string, keyPath: string[]) => {
   height: 100%;
   .header {
     display: flex;
-    .logo-wrapped{
-      line-height:50px ;
+    .logo-wrapped {
+      line-height: 50px;
     }
     .name {
       text-align: center;

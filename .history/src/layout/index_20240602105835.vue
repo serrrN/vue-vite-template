@@ -10,16 +10,14 @@
   </div>
 </template>
 
-<script lang="ts" setup>
- 
-</script>
+<script lang="ts" setup></script>
 
 <style scoped lang="scss">
-.layout-container{
+.layout-container {
   width: 100%;
   height: 100%;
   position: relative;
-  .el-aside{
+  .el-aside {
     height: 100%;
     position: absolute;
     background-color: yellow;

@@ -10,7 +10,7 @@
       <div class="logo-wrapped"></div>
       <div class="name">后台管理系统</div>
       <div class="fold-icon-wrapped">
-        <el-icon >
+        <el-icon>
           <Edit />
         </el-icon>
       </div>

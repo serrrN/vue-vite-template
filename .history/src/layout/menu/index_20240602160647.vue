@@ -57,17 +57,15 @@ const handleClose = (key: string, keyPath: string[]) => {
     height: 70px;
     width: 80%;
     line-height: 70px;
-    .logo-wrapped{
-      line-height:50px ;
+    .logo-wrapped {
+      line-height: 50px;
       height: 100%;
     }
     .name {
       text-align: center;
       font-size: 25px;
-      
     }
-    .fold-icon-wrapped{
-
+    .fold-icon-wrapped {
     }
   }
 

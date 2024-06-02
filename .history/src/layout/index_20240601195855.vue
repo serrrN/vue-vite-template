@@ -11,9 +11,9 @@
 </template>
 <script setup lang="ts"></script>
 <style lang="scss" scoped>
-.layout-container{
-    width: 100vw;
-    height: 100vh;
-    background-color: antiquewhite;
+.layout-container {
+  width: 100vw;
+  height: 100vh;
+  background-color: antiquewhite;
 }
 </style>

@@ -39,7 +39,7 @@
 
 <script lang="ts" setup>
 import { ref } from 'vue'
-const fold_icon_color = ref("$theme-color")
+const fold_icon_color = ref('$theme-color')
 const isCollapse = ref(false)
 const handleOpen = (key: string, keyPath: string[]) => {
   console.log(key, keyPath)
@@ -57,14 +57,14 @@ const handleClose = (key: string, keyPath: string[]) => {
     height: 70px;
     line-height: 70px;
     justify-content: space-between;
-    .logo-wrapped{
-      line-height:50px ;
+    .logo-wrapped {
+      line-height: 50px;
       height: 100%;
       display: flex;
       align-items: center;
       justify-content: center;
       width: 50px;
-      .logo{
+      .logo {
         width: 28px;
       }
     }
@@ -72,10 +72,10 @@ const handleClose = (key: string, keyPath: string[]) => {
       text-align: center;
       font-size: 25px;
       width: 160px;
-      color:$theme-color;
+      color: $theme-color;
       font-weight: 600;
     }
-    .fold-icon-wrapped{
+    .fold-icon-wrapped {
       width: 50px;
       display: flex;
       align-items: center;

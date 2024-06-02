@@ -1,5 +1,5 @@
 <template>
-     <div class="common-layout">
+  <div class="common-layout">
     <el-container>
       <el-aside>Aside</el-aside>
       <el-container>
@@ -9,9 +9,5 @@
     </el-container>
   </div>
 </template>
-<script setup lang="ts">
-   
-</script>
-<style lang="scss" scoped>
-
-</style>
+<script setup lang="ts"></script>
+<style lang="scss" scoped></style>

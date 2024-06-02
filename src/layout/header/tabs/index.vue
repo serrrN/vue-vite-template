@@ -1,9 +1,5 @@
 <template>
-<div class="header-tabs">header-tabs</div>
+  <div class="header-tabs">header-tabs</div>
 </template>
-<script setup lang="ts">
-
-</script>
-<style lang="scss" scoped>
-
-</style>
+<script setup lang="ts"></script>
+<style lang="scss" scoped></style>

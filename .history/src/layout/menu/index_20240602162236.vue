@@ -13,7 +13,7 @@
       <div class="name">后台管理系统</div>
       <div class="fold-icon-wrapped">
         <el-icon size="18" color="rgb(64, 158, 255)">
-          <Fold/>
+          <Fold />
         </el-icon>
       </div>
     </div>
@@ -38,7 +38,7 @@
 </template>
 
 <script lang="ts" setup>
-import { Fold } from '@element-plus/icons-vue/dist/types';
+import { Fold } from '@element-plus/icons-vue/dist/types'
 import { ref } from 'vue'
 const isCollapse = ref(false)
 const handleOpen = (key: string, keyPath: string[]) => {
@@ -57,14 +57,14 @@ const handleClose = (key: string, keyPath: string[]) => {
     height: 70px;
     line-height: 70px;
     justify-content: space-between;
-    .logo-wrapped{
-      line-height:50px ;
+    .logo-wrapped {
+      line-height: 50px;
       height: 100%;
       display: flex;
       align-items: center;
       justify-content: center;
       width: 50px;
-      .logo{
+      .logo {
         width: 28px;
       }
     }
@@ -72,10 +72,10 @@ const handleClose = (key: string, keyPath: string[]) => {
       text-align: center;
       font-size: 25px;
       width: 160px;
-      color:$theme-color;
+      color: $theme-color;
       font-weight: 600;
     }
-    .fold-icon-wrapped{
+    .fold-icon-wrapped {
       width: 50px;
       display: flex;
       align-items: center;

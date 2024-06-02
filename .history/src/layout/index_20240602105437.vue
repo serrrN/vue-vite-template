@@ -10,12 +10,10 @@
   </div>
 </template>
 
-<script lang="ts" setup>
- 
-</script>
+<script lang="ts" setup></script>
 
 <style scoped lang="scss">
-.layout-container{
+.layout-container {
   width: 100vw;
   height: 100vh;
 }
